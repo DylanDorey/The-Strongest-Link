@@ -1,0 +1,5 @@
+"Hg" is the chemical symbol of which element?;2;Magnesium;Mercury;Hassium;Holmium
+What color is a Himalayan poppy flower?;4;Red;Purple;White;Blue
+How many hearts does an octopus have?;3;One;Two;Three;Four
+Which horoscope sign has a crab?;1;Cancer;Gemini;Libra;Aries
+In what country did the rock band AC/DC originate?;3;USA;Norway;Australia;Canada
