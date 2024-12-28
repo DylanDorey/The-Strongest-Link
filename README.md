@@ -1,0 +1,1 @@
+The Strongest link is a hard coded trivia game that tallies the users longest streak of questions and outputs it at the end of the game. The project utilizes and demonstrates the basics of using the Linked List data structure to store questions parsed from an input file.
